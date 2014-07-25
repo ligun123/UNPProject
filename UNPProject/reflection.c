@@ -29,6 +29,5 @@ int main(int argc, const char * argv[])
         }
         Close(clientfd);
     }
-    signal(<#int#>, <#void (*)(int)#>)
     Close(lsfd);
 }
