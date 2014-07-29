@@ -6,13 +6,42 @@
 	<dict>
 		<key>UNPProject.xcscheme</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>client.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>select_serv.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>6A177AFE1985F6C200D49578</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6A177B491985F73600D49578</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>6A1ABF1319822CE200C08E2C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6AA8A51619873FCB0047FC5B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
